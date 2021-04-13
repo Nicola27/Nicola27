@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Nicola
+- 👀 I’m interested in VFX and Computer Graphics in general!
+- 🌱 I’m currently learning Houdini 
