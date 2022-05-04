@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Nicola
-- 👀 I’m interested in VFX and Computer Graphics in general!
-- 🌱 I’m currently learning Houdini 
+- 👀 I’m interested in VFX and Computer Graphics!
+- 🤯 I'm currently working as a FX TD for Cinesite!
